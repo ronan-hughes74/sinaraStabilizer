@@ -20,7 +20,6 @@ Notes:
 
 Credits:
     - This file has significant contrbition from ChatGPT
-    - 
 
 ============================================================
 """
