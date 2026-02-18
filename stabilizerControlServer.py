@@ -19,7 +19,7 @@ Notes:
     - <Assumptions>
 
 Credits:
-    - This file has significant contrbition from ChatGPT
+    - This file has significant contribution from ChatGPT
 
 ============================================================
 """
