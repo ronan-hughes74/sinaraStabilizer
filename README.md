@@ -9,7 +9,6 @@ sinaraStabilizer/
 │   ├── __init__.py
 │   ├── server.py
 │   ├── miniconf_client.py
-│   ├── mirror.py
 │   └── main.py
 └── archive/
 ```
